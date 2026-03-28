@@ -105,27 +105,27 @@ void oled(){
   display.setTextSize(1.3);
   display.setTextColor(WHITE);
 
-  display.setCursor(60, 0);
-  display.print("x = ");
+  display.setCursor(70, 0);
+  display.print("x=");
   display.print(valueX);
 
-  display.setCursor(60, 10);
-  display.print("y = ");
+  display.setCursor(70, 10);
+  display.print("y=");
   display.println(valueY);
 
   display.setCursor(0, 0);
-  display.print(intake);
-  display.println(" RPM");
+  display.print(rpm);
+  display.println(" RPM-I");
 
   display.setCursor(0, 10);
-  display.print(exhaust);
-  display.println(" RPM2");
+  display.print(rpm2);
+  display.println(" RPM-E");
 
   display.setCursor(0, 20);
   display.print(fanspeed);
   display.println(" Pwm");
 
-  display.setCursor(60, 20);
+  display.setCursor(70, 20);
   display.print("Temp ");
   display.print(temp_celsius);
   display.println("C");

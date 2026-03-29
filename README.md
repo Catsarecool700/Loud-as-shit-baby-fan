@@ -7,7 +7,7 @@ The code is a mess but functions and the cad is final
   - Mini360 or similar buck converter
   - 128x32 0.92" i2c oled
   - PSP 1000 joystick (the one with pads on the bottom)
-  - USBc Trigger board eiter adjustable or set to 12v
+  - USBc Trigger board either adjustable or set to 12v
   - Delta [GFC0412D](https://www.delta-fan.com/Download/Spec/GFC0412DS-SM06B0G.pdf) 
   - A diode may be needed if your buck converter lacks one to prevent voltage backflow when programing the esp32
 - Hardware required

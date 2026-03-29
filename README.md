@@ -19,7 +19,7 @@ The code is a mess but functions and the cad is final
 - Future plans
   - Website for remote control over wifi
   - Better oled ui with proper menus and a nicer look
-  - Mk ii using a even louder and faster spinning fan in the same footprint 
+  - Mk ii using an even louder and faster spinning fan in the same footprint 
 
 <img src="Images/working.jpg" height="500"/> <img src="Images/approximate size.jpg" height="500"/>
 <img src="Images/so many wires.jpg" height="500"/> <img src="Images/more shots of it exploded.jpg" height="500"/>

@@ -1,3 +1,6 @@
+// This code is built from various code examples from the following places
+// https://dronebotworkshop.com/esp32-pwm-fan/, https://www.espboards.dev/blog/ssd1306-esp32-s3-super-mini-setup/, https://www.teachmemicro.com/using-the-esp32-internal-temperature-sensor-with-arduino/
+
 #include <Wire.h>
 #include <Adafruit_GFX.h>
 #include <Adafruit_SSD1306.h>

@@ -18,6 +18,6 @@ The code is a mess but functions and the cad is final
   - Hot glue gun
 
 
-<img src="Images/working.jpg" height="600"/> <img src="Images/approximate size.jpg" height="600"/>
-<img src="Images/so many wires.jpg" height="600"/> <img src="Images/more shots of it exploded.jpg" height="600"/>
-<img src="Images/esp getting soldered.jpg" height="600"/> <img src="Images/too many wires had to print a new top cover.jpg" height="600"/>
+<img src="Images/working.jpg" height="500"/> <img src="Images/approximate size.jpg" height="500"/>
+<img src="Images/so many wires.jpg" height="500"/> <img src="Images/more shots of it exploded.jpg" height="500"/>
+<img src="Images/esp getting soldered.jpg" height="500"/> <img src="Images/too many wires had to print a new top cover.jpg" height="500"/>

@@ -66,7 +66,7 @@ void loop() {
   oled();
   pwm();
   temp_celsius = temperatureRead();
-  pwmValue = map(fanspeedPercent, 0, 100, 6, 255);
+  pwmValue = map(fanspeedPercent, 0, 100, 16, 255);
   ledcWrite(PWM_PIN, pwmValue);
   ledcWrite(PWM_PIN2, pwmValue);
   valueX = analogRead(VRX_PIN);
